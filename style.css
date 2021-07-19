@@ -80,6 +80,7 @@ body {
 
 .shape-circle{
   border-radius: 100%;
+  border-bottom: rgb(52, 150, 22) 5px solid;
 }
 
 .tree {
